@@ -59,7 +59,7 @@ The implementation supports concurrent access using:
 * Maven
 * JUnit 5
 
-## Example
+## Usage
 
 ```java
 LoadBalancer loadBalancer =
